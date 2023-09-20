@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author wheel
+ *
+ */
+module oooo {
+}
